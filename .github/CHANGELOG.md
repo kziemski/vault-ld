@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.6.0](https://github.com/kziemski/vault-ld/compare/v0.5.0...v0.6.0) (2026-07-30)
+
+
+### Features
+
+* added badges to the readme ([d5aa97f](https://github.com/kziemski/vault-ld/commit/d5aa97ffc5bba225d3d45b7d5a5e4b6f8807c97b))
+* harden reference tools against untrusted vaults and RDF ([7b86427](https://github.com/kziemski/vault-ld/commit/7b864274e45bbf701c1af2729e89b35eb04625fa))
+* migrated to vault-ld.org from standard github pages ([c53c071](https://github.com/kziemski/vault-ld/commit/c53c0711edcb8d2b1f420e95be7fdeba40c43b3c))
+* publish the spec as a versioned static site via GitHub Pages ([767a063](https://github.com/kziemski/vault-ld/commit/767a063c675cf06ee9a3bd6578a92088e47f83c3))
+* publish the spec as a versioned static site via GitHub Pages ([9aaa180](https://github.com/kziemski/vault-ld/commit/9aaa1801b91512d6262700279e8f8b1355965194))
+* SEO and social metadata for the docs site ([c19f257](https://github.com/kziemski/vault-ld/commit/c19f2574c1a86eb7959bf7c0ae13deed3be496c5))
+* SEO and social metadata for the docs site ([ca4e2ca](https://github.com/kziemski/vault-ld/commit/ca4e2ca488c27814ac6310004ab1741776fc94d0))
+* updating to custom domain (vault-ld.org) ([9bed7f6](https://github.com/kziemski/vault-ld/commit/9bed7f6371f247671b9f43870fedb49fdd6e193d))
+
+
+### Bug Fixes
+
+* added KGG to the LICENSE ([d5aa97f](https://github.com/kziemski/vault-ld/commit/d5aa97ffc5bba225d3d45b7d5a5e4b6f8807c97b))
+* added Vault-LD icon ([d5aa97f](https://github.com/kziemski/vault-ld/commit/d5aa97ffc5bba225d3d45b7d5a5e4b6f8807c97b))
+* broken logo ([1c2eab2](https://github.com/kziemski/vault-ld/commit/1c2eab2ac8bb62caf9a803c7916046092a893232))
+* doc site redirects ([025e71b](https://github.com/kziemski/vault-ld/commit/025e71be8d810e387dc451c920e05472d1c47170))
+* doc site redirects- sitemap now links to canonical links with the trailing slash. ([9515039](https://github.com/kziemski/vault-ld/commit/9515039cf6de1bc8cc6e1c324ef7be9d69ff7109))
+
 ## [0.5.0](https://github.com/The-Knowledge-Graph-Guys/vault-ld/compare/v0.4.0...v0.5.0) (2026-07-14)
 
 
